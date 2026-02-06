@@ -16,11 +16,11 @@
  </br>
    <p>
      A Junior Full Stack Developer:
-    <br/>
+   
     
      passionate about crafting clean robust, functional and scalable web and android applications.
      
-    <br/>
+    
     
      Skilled in both front-end and back-end technologies,
      
