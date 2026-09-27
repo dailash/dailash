@@ -115,7 +115,7 @@
 <p> 
 
 > ##### *Visitor Count* &nbsp; 
-![Profile Views](https://komarev.com/ghpvc/?username=dailash&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dailash.dailash)
 </p>
     </td>
    </tr>
