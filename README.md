@@ -42,52 +42,9 @@
 </p>
 
 ![Python][#Python]
-![Bash][#Bash]
+![Golang][#Golang]
 ![JavaScript][#JS]
 
-
-<p> 
-
-> ##### *Framework | Libraries* &nbsp; 
-
-</p>
-
-![Django][#Django]
-![React][#React]
-![Flask][#Flask]
-![Bootstrap][#Bootstrap]
-
-
-> ##### *Databases* &nbsp; 
-
-</p>
-
-![MySQL][#MySQL] 
-![MongoDB][#MongoDB] 
-
-<p> 
-
-> ##### *Cloud Services* &nbsp; 
-
-</p>
- 
-![Nginx][#Nginx] 
-![Docker][#Docker] 
-![Kubernetes][#Kubernetes] 
-![AWS][#AWS] 
-![Apache][#Apache]
-
-<p> 
-
-> ##### *System | Network | Administration* &nbsp; 
-
-</p>
-
-![WireShark][#Wireshark] 
-![Ansible][#Ansible]
-![Terraform][#Terraform]
-![Prometheus][#Prometheus]
-![Grafana][#Grafana]
 
 
 <!-- Programming Languages -->
@@ -95,14 +52,13 @@
 
 [#Python]:        https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00
 [#Golang]:        https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&logoWidth=25&
-[#Bash]:          https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&
 [#JS]:            https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey
 
 
 <!-- Framework | Libraries | Databases -->
 
 
-[#Django]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
+[#Java]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
 [#React]:       https://img.shields.io/badge/react-%234ea94b.svg?logo=react&logoColor=white
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
