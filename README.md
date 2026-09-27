@@ -51,6 +51,10 @@
 ![CSS3][#CSS3]
 ![C][#C]
 ![C++][#CPP]
+![MySQL][#MySQL]
+
+
+
 <p align="center">
 <!-- Reference Links -->
 [#Java]:        https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white
@@ -78,19 +82,7 @@
 [#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
 
 
-<!-- Cloud Hosting | System | Network | Administration -->
 
-
-[#Nginx]:         https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white
-[#Docker]:        https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white
-[#Kubernetes]:    https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white
-[#AWS]:           https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
-[#WireShark]:     https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white
-[#Ansible]:       https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white
-[#Terraform]:     https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white
-[#Prometheus]:    https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white
-[#Grafana]:       https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white
-[#Apache]:        https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColo
 </p>
 
 </td>
