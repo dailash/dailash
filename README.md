@@ -37,20 +37,33 @@
 
 <p> 
   
->  ##### *Languages | Framework | Libraries | Tools* &nbsp; 
+>  ##### *Languages * &nbsp; 
 
 </p>
 
 ![Python][#Python]
 ![Golang][#Golang]
-![JavaScript][#JS]
-
-<!-- Programming Languages & Tech -->
 ![Java][#Java]
-![HTML5][#HTML5]
-![CSS3][#CSS3]
 ![C][#C]
 ![C++][#CPP]
+
+<p> 
+  
+>  ##### *Web Tools* &nbsp; 
+
+</p>
+
+<!-- Programming Languages & Tech -->
+
+![HTML5][#HTML5]
+![CSS3][#CSS3]
+![JavaScript][#JS]
+
+<p> 
+  
+>  ##### *Database Tools* &nbsp; 
+
+</p>
 ![MySQL][#MySQL]
 
 
