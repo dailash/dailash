@@ -51,7 +51,7 @@
 ![CSS3][#CSS3]
 ![C][#C]
 ![C++][#CPP]
-
+<p align="center">
 <!-- Reference Links -->
 [#Java]:        https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white
 [#HTML5]:       https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white
@@ -70,7 +70,6 @@
 <!-- Framework | Libraries | Databases -->
 
 
-[#Java]:        https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white
 [#React]:       https://img.shields.io/badge/react-%234ea94b.svg?logo=react&logoColor=white
 [#Flask]:         https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066
 [#Bootstrap]:     https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white
@@ -92,7 +91,7 @@
 [#Prometheus]:    https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white
 [#Grafana]:       https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white
 [#Apache]:        https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColo
-
+</p>
 
 </td>
 <td width="40%">
