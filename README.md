@@ -155,8 +155,7 @@
 </table>
 <!-- Activity graph -->
 
-[![Dailash's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailash&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dailash)](https://git.io/streak-stats)<!--
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dailash&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
