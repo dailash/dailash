@@ -45,7 +45,19 @@
 ![Golang][#Golang]
 ![JavaScript][#JS]
 
+<!-- Programming Languages & Tech -->
+![Java][#Java]
+![HTML5][#HTML5]
+![CSS3][#CSS3]
+![C][#C]
+![C++][#CPP]
 
+<!-- Reference Links -->
+[#Java]:        https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white
+[#HTML5]:       https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white
+[#CSS3]:        https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white
+[#C]:           https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white
+[#CPP]:         https://img.shields.io/badge/c++-%2300599C.svg?logo=cplusplus&logoColor=white
 
 <!-- Programming Languages -->
 
