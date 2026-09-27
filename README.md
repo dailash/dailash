@@ -155,8 +155,7 @@
 </table>
 <!-- Activity graph -->
 
-[![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dailash&theme=&github-compact&bg_color=none&color=808080&line=32CD32&point=32CD32&area=true&area_color=32CD32&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Dailash's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailash&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dailash&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
