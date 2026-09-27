@@ -55,7 +55,7 @@
 
 
 
-<p align="center">
+
 <!-- Reference Links -->
 [#Java]:        https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white
 [#HTML5]:       https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white
@@ -81,9 +81,6 @@
 [#MySQL]:         https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white
 [#MongoDB]:       https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white
 
-
-
-</p>
 
 </td>
 <td width="40%">
