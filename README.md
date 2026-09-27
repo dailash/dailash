@@ -146,7 +146,7 @@
 <p> 
 
 > ##### *Visitor Count* &nbsp; 
-![Visitor Count](https://count.getloli.com/get/@dailash)
+![Profile Views](https://komarev.com/ghpvc/?username=dailash&color=blue)
 </p>
     </td>
    </tr>
