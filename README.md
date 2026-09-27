@@ -36,13 +36,12 @@
 
 
 <p> 
-
-> ##### *Languages* &nbsp; 
+  
+>  ##### *Languages | Framework | Libraries | Tools* &nbsp; 
 
 </p>
 
 ![Python][#Python]
-![Golang][#Golang] 
 ![Bash][#Bash]
 ![JavaScript][#JS]
 
